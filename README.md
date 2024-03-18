@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-Navigating the Maze of Construction Partners Software(j01/)
+[Navigating the Maze of Construction Partners Software](j01/)
