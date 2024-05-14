@@ -15,7 +15,7 @@ Before even engaging with Construction Partners Software, the preliminary task i
 
 <b>Navigational Nightmares</b>
 
-Navigating the software is a study in patience. The interface, clunky and seemingly antiquated, eschews modern navigational elements in favor of a restrictive arrow key and Enter button scheme. This method, reminiscent of early software design, forces a linear progression through menus and fields. A single misstep or oversight necessitates a complete cycle through options to rectify an error, a process as tedious as it is time-consuming.
+Navigating the software requires patience due to its outdated interface. The reliance on an antiquated <b>navigation system</b>, using arrow keys and the Enter button, forces a linear progression through menus and fields. Any misstep necessitates a complete cycle through options to rectify an error, a process as tedious as it is time-consuming.
 
 <b>Aesthetic Mess</b>
 
