@@ -4,7 +4,7 @@
 
 <b>A Digital Interface Stuck in Time</b>
 
-The landing page of Construction Partners Software presents yet another dimension of the UX challenge. Upon arrival, one is met with a page that fills merely a quarter of the screen, echoing web designs of yesteryear. This constrained viewport not only appears antiquated but also impinges upon usability by failing to present information in a readily accessible and engaging manner. Not to mention the lack of responsiveness for mobile.
+The <b>user experience</b> suffers significantly upon interacting with the software's landing page of Construction Partners Software presents yet another dimension of the UX challenge. Upon arrival, one is met with a page that fills merely a quarter of the screen, echoing web designs of yesteryear. This constrained viewport not only appears antiquated but also impinges upon usability by failing to present information in a readily accessible and engaging manner. Not to mention the lack of responsiveness for mobile.
 
 <img src="../assets/constructionpic.png">
 
